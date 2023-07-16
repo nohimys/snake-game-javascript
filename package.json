@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nohimys/snake-game-javascript/issues"
   },
-  "homepage": "https://github.com/nohimys/snake-game-javascript#readme"
+  "homepage": "https://github.com/nohimys/snake-game-javascript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
