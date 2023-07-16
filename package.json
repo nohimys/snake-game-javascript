@@ -1,0 +1,19 @@
+{
+  "name": "snake-game-javascript",
+  "version": "1.0.0",
+  "description": "This is a simple snake game using vanila javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nohimys/snake-game-javascript.git"
+  },
+  "author": "Nohim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nohimys/snake-game-javascript/issues"
+  },
+  "homepage": "https://github.com/nohimys/snake-game-javascript#readme"
+}
